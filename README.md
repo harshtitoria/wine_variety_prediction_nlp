@@ -1,4 +1,4 @@
-# wine_varity_prediction_nlp
+# wine_variety_prediction_nlp
 Here we use NLP to determine the wine "varity" by analyzing the "review description" feature and creating a "bag of words" model and we use logistic
 regression for classification as it works better as a text related classifier.
 Also, we do some visualization to find the correlation between different features.
